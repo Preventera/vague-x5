@@ -8,7 +8,7 @@
 
 ![status](https://img.shields.io/badge/status-demonstration-orange) ![governance](https://img.shields.io/badge/governance-HITL-blue) ![license](https://img.shields.io/badge/license-TBD-lightgrey)
 
-[🇫🇷 Français](README.md)
+[Lire en français](README.md)
 
 </div>
 
