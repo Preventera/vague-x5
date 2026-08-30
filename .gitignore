@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Données brutes et sorties
+data/raw/
+data/interim/
+outputs/
+*.parquet
+
+# Secrets — jamais dans le dépôt
+.env
+*.key
+credentials*.json
+
+# OS / éditeurs
+.DS_Store
+.vscode/settings.json
